@@ -8,12 +8,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 clone the repo.
 ```
-git clone https://github.com/emmanuelraj7/opengpt2.git
+git clone https://github.com/jonathanfspencer-usps/opengpt2.git
 ```
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
+
+```
+Navigate to /flask_demo
+```
 
 ```
 pip3 install -r requirements.txt
